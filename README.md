@@ -1,3 +1,4 @@
 Sistema Git em teste
 
-Alterado novamente
+Alterado novamente.
+Master alterando
